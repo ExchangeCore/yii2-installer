@@ -14,7 +14,7 @@
     
     "autoload": {
         "psr-4": {
-            "exchangecore\\yii2installer": "src"
+            "exchangecore\\yii2installer\\": "src"
         }
     }
 }
